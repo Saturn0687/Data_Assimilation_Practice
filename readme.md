@@ -19,7 +19,7 @@ Main task:
 5. Stochastic Physics EnKF
 ...
 
-Class description:https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=229%20M8150&class=&dpt_code=2290&ser_no=74189&semester=108-1&lang=EN
+Class description: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=229%20M8150&class=&dpt_code=2290&ser_no=74189&semester=108-1&lang=EN
 
 ## Getting Started
 
